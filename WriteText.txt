@@ -1,0 +1,1134 @@
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+   <meta charset="utf-8" />
+<!-- WOMPMOBILE SITE TAG - DO NOT ALTER - For more information see WompMobile.com -->
+   <script> if((-1==document.cookie.indexOf("NoMobile")||-1<window.location.hash.toLowerCase().indexOf("showmobile"))&&-1==window.location.hash.toLowerCase().indexOf("frommobile")){if(/iphone|ipod|phone|mobile|mini|silk|iemobile/i.exec(navigator.userAgent)&&!/ipad|tablet/i.exec(navigator.userAgent)||-1<document.cookie.indexOf("YesMobile")||-1<window.location.hash.toLowerCase().indexOf("showmobile"))document.write('<plaintext style="display:none;">'),setTimeout(function(){var b=document.getElementsByTagName("script")[0],
+a=document.createElement("script");a.src="//az690879.vo.msecnd.net/7273/MobileScript.js";a.id="wompScript";a.onerror=function(){var a=new Date;a.setTime((new Date).getTime()+6E5);document.cookie="YesMobile=True; expires="+a.toUTCString()+";";window.location=window.location.href};b.parentNode.insertBefore(a,b)})}else if(-1<window.location.hash.toLowerCase().indexOf("frommobile")){var c=new Date;c.setTime((new Date).getTime()+6E5);document.cookie="NoMobile=True; expires="+c.toUTCString()+";"};</script>
+<!-- END WOMPMOBILE TAG -->
+
+   <title>Huskers to the MAX | HuskerMax.com</title>
+   <meta name="description" content="Nebraska Cornhusker football news, game results, archives, discussion boards, statistics and much more" />
+   <meta name=viewport content="width=device-width, initial-scale=1, user-scalable=yes">
+   <meta name="keywords" content="Nebraska, Huskers, Cornhuskers, football, athletics, tickets, schedule, college, NCAA, Big Ten, CFB, NCAAF, Mike Riley, Bo Pelini, Bill Callahan, Tom Osborne, Frank Solich, Bob Devaney, Ndamukong Suh, message board, recruiting, Husker merchandise, shopping, Colonel Mustard, Husker Dan" />
+   <meta name="google-site-verification" content="qqaxHetk0OLPUYXnnqxzQmEN2bZBK2IF9OnEx8hRRE8" />
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+	 <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+   <meta name="alexaVerifyID" content="H6uBepUuAWp9iTdeQ1cJZJHJv-w" />
+
+ 
+   <!--[if lt IE 9]>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+<![endif]-->
+   
+   <!-- NEULION -->
+   <script src="https://www.nmnathletics.com/mediaPortal/inline.js"></script>
+   <script>
+    var iptv_direction = "bottom";
+   </script>
+
+   <!-- GOOGLE -->
+   <script src="https://www.google.com/jsapi?key=ABQIAAAAsoOJNbSk-HeMSSHuS2BQhRSorthckE0d17_Gq8ET6S_Fzrsr9BRDET2LaY66eVTPYNCMtENA9hasdg"></script>
+   <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" />
+
+  <!-- TEMP FOR KOOZIES images/koozie2015c.png -->
+  <style>
+<!-- 
+#btn-koozies{
+background: url(/images/koozie2015c.png) left top;
+height: 72px;
+width: 220px;
+margin-left: 10px;
+margin-bottom: 8px;
+margin-top:20px;
+}
+/*
+ #btn-koozies:hover{
+background: url(/images/koozie2015c.png) right top;
+}
+*/ 
+-->
+</style>
+
+
+<!--  HOUSE SCRIPTS -->
+ <script src="valet/newvalet.js"></script>
+ <script src="js/navbuts.js"></script>
+ <script src="js/confpop.js"></script>
+ <link rel="stylesheet" media="screen" href="css/table.css" />
+ <link rel="alternate stylesheet" type="text/css" media="screen" title="yes-underlines" href="css/table2.css" />
+ <script src="js/styleswitch.js"></script>
+ <script src="valet/r300valet.js"></script>
+ 
+ 
+			<SCRIPT> 
+			var a = Math.floor(Math.random()*9999999999+1) 
+			var random_number = a; 
+			</SCRIPT>
+
+			<script src="https://edge.quantserve.com/quant.js"></script>
+			<noscript>
+			<img src="https://pixel.quantserve.com/pixel/p-e2ucAJHl-H0tI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
+			</noscript>
+			<!-- End Quantcast tag -->
+
+			<link rel="stylesheet" href="js/maintabs/mouseovertabs.css" />
+			<script src="js/maintabs/mouseovertabs.js">
+			/***********************************************
+			* Mouseover Tabs Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+			* This notice MUST stay intact for legal use
+			* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+			***********************************************/
+			</script>
+			<link rel="stylesheet" href="js/tabs/tabcontent2.css" />
+			<script src="js/tabs/tabcontent2.js">
+			/***********************************************
+			* Tab Content script v2.2-  Dynamic Drive DHTML code library (www.dynamicdrive.com)
+			* This notice MUST stay intact for legal use
+			* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+			***********************************************/
+			</script>
+			<link rel="stylesheet" href="css/HMstyles.css" />
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+
+
+<!-- Begin comScore Tag --> 
+<script> 
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script> 
+
+<script> 
+  COMSCORE.beacon({
+    c1:2,
+    c2:"6035210",
+    c3:"",
+    c4:"www.huskermax.com",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script> 
+<noscript> 
+  <img src="//b.scorecardresearch.com/b?c1=2&c2=6035210&c3=&c4=www.huskermax.com&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript> 
+<!-- End comScore Tag -->
+
+<!-- Begin USA TODAY SDP comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035223" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="//b.scorecardresearch.com/p?c1=2&c2=6035223&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<!--[if lte IE 7]>
+<style type="text/css">
+ #mybxholder { display: none; }
+</style>
+<![endif]-->
+<noscript>
+<style type="text/css">
+ #mybxholder { display: none; }
+</style>
+</noscript>
+
+	<!-- Spotlight -->
+	<link href="/js/BX/jquery.bxslider.css" rel="stylesheet" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+	<script src="/js/BX/jquery.bxslider.min.js"></script>
+
+<script>
+$(document).ready(function(){
+  $('.bxslider').bxSlider({
+	mode:'fade',
+	pause: 9000,
+	speed:700,
+	auto:true,
+	captions:false,
+	preloadImages:'all',
+	autoHover:true,
+	autoDelay:9000,
+	slideWidth:459,
+	slideSelector:'div.slide',
+	controls:true
+	});
+});
+</script>
+		
+<!-- COUNTDOWN CLOCK -->
+<script src="/js/countdown/jquery.plugin.min.js"></script>
+<script src="/js/countdown/jquery.countdown.min.js"></script>
+<link rel="stylesheet" href="/js/countdown/jquery.countdown.css" />
+<script>
+<!--
+$(function(){var kickoff=new Date();
+/* ADJUST KICKOFF TIME ON THE SIX LINES BELOW, USE CENTRAL TIME*/
+
+var koYr = 2017  /* YEAR */;
+var koMo =    4  /* MONTH: 9 for Sep, 10 for Oct. etc */;
+var koDa =   15  /* DAY: 17 for Nov. 17, etc */;
+var koHr =   14  /* HOUR: Military style, 2 pm = 14 etc*/;
+var koMin =  30  /* MINUTE */;
+var tZon =   -5  /* TIMEZONE: -5 for CDT, -6 for CST*/;
+
+kickoff=new Date(koYr,koMo-1,koDa,koHr,koMin,0);
+$('#alwaysShow').countdown({until:kickoff,format:'DHMS',timezone: tZon});
+}); 
+// -->
+</script>
+<!-- END COUNTDOWN CLOCK -->
+
+
+	<!-- For tracking outbound links. Do no remove. -->			
+	<script>
+	  function recordOutboundLink(link, category, action) {
+	    _gat._getTrackerByName()._trackEvent(category, action);
+	    setTimeout('document.location = "' + link.href + '"', 100);
+	  }
+	</script>	
+
+  <!-- Google Analytics Tracking. Do not remove. -->	
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15182723-1']);
+  _gaq.push(['_setDomainName', 'huskermax.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>		
+
+  <!-- Tobys override CSS -->
+  <link rel=stylesheet href="css/newstyle4.css" />
+</head>
+
+
+<!-- TEMP FOR BACKGROUND IMAGE; ALSO IN MAIN STYLE FILE /CSS/HMStyles.css FOR INSIDE PAGES -->
+<style type="text/css">
+<!-- 
+bodyy { 
+		background-image: url("/images/chalkboard3.jpg");
+    background-color: #5C655C;
+    background-repeat: repeat-y;
+    background-position: center top; 
+}
+
+-->
+</style>
+
+
+
+<body bgcolor="#fff4d3" text="#000000" link="#cc0000" vlink="#6a6a6a" alink="#999999" marginwidth="0" marginheight="0">
+<div style="margin:0 172px;"><!-- TO MAKE ROOM FOR PILLAR AD -->
+
+<div id="fb-root"></div>
+
+	<div id="centered-wrapper">
+
+		<div id="header-wrapper" class="rost" style="margin-bottom:12px;">
+				<img alt="brand (7K)" src="images/brand.png" width="184" height="130" style="margin:8px 30px 16px 10px; float:left" />
+						
+						<ul id="top-nav">
+							<li>
+								<span class="everything-slogan toptext">&#147;Everything you ever wanted to know about the Huskers&#148;</span>
+							</li>
+							<li> 
+							<div id="header-facebook">
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.huskermax.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
+							 </div><!-- #header-facebook -->
+							</li>
+							<li>
+								<div id="header-twitter">								
+									<a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-via="Huskermax">Tweet</a><script src="https://platform.twitter.com/widgets.js"></script>
+							 </div><!-- #header-twitter -->
+							</li>
+							<li><a href="/advertise.html"><span class="toptext">Advertise</span></a></li>
+							<li><a href="/bbs/rules.html"><span class="toptext">Join the BBS</span></a></li>
+						</ul>
+						
+
+						<div style="min-width:728px; min-height:90px; float:right;">
+						<!-- Leaderboard Ad -->
+<!-- HM Front Page 728 ATF [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc177470 = window.plc177470 || 0;
+document.write('<'+'div id="placement_177470_'+plc177470+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(166223, 177470, [728,90], 'placement_177470_'+opt.place, opt); }, opt: { place: plc177470++, keywords: abkw, domain: 'servedbyadbutler.com', click:'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+				<!-- END Leaderboard Ad -->
+				</div> 
+
+	 </div><!-- #header-wrapper -->
+
+		<div id="mytabsmenu" class="tabsmenuclass clear" style="white-space: nowrap; width:1080px;">
+			<ul style="max-height:48px;">
+				<nobr>
+					<li><a href="/" rel="gotsubmenu[selected]" class="mainnav-first">THE&nbsp;&nbsp;ESSENTIALS</a></li>
+					<li><a href="https://forum.huskermax.com/" rel="gotsubmenu">BBS&nbsp;&nbsp;FORUMS</a></li>
+					<li><a rel="gotsubmenu">VIDEOS</a></li>
+					<li><a rel="gotsubmenu">RANKINGS</a></li>
+					<li><a rel="gotsubmenu">MORE&nbsp;&nbsp;SPORTS</a></li>
+					<li><a rel="gotsubmenu">WRITERS</a></li>
+					<li><a rel="gotsubmenu">EXTRAS</a></li>
+					<li><a rel="gotsubmenu">FAN&nbsp;&nbsp;GATHERINGS</a></li>
+					<li><a href="http://shophuskermax.com" target="_blank" rel="gotsubmenu">SHOP</a></li>
+					<li><a href="/advertise.html" title="Click to find out how to advertise your product or service on HuskerMax">ADVERTISE</a></li>
+					<li><a rel="gotsubmenu" class="mainnav-last">BUSINESS&nbsp;&nbsp;DIRECTORY</a></li>
+
+
+				</nobr>
+			</ul>
+	 </div><!-- #mytabsmenu -->
+
+		<div id="mysubmenuarea" class="tabsmenucontentclass">
+
+		<!--1st link within submenu container should point to the external submenu contents file-->
+		<a href="js/maintabs/submenucontents2016.htm" style="visibility:hidden">Sub Menu contents</a>
+
+	 </div>
+
+		<script>
+		<!--
+		//mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+		mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", true)
+		//-->
+		</script>
+
+		<div id="content-wrapper" style="width:1060px; max-width:1060px; overflow:auto;">
+
+
+	<!-- 		<div style="width:1060px; max-width:1060px; position:relative"> -->
+
+
+			<!-- ======================== LEFT COLUMN =========================== -->
+			<div style="width:458px; max-width:458px; paXXXXXXXXdding-bottom:110px; margin:0; float:left">
+<!-- 			<div style="width;458px; max-width:458px; padding:0; margin:0"> -->
+
+
+
+
+
+<!-- ============SPOTLIGHT================= -->
+<div class="mybxholder2" id="mybxholder2" style="overflow:hidden !important;">
+ <div class="bxslider" style="margin-top:0;">
+
+
+
+  <div class="slide">
+	 <div class="triad2"><img src="/BXimages/marylandMBB2017.jpg" />
+	  <div class="slidehed2">Huskers do it again</div>
+	   <div class="slidetext2">Nebraska is now a surprising 2-0 in Big Ten play after pulling off its second consecutive road upset. This time, a 14-0 run to finish the game rallied the Huskers past <a href="http://www.huskermax.com/mensbasketball/" title="HuskerMax men's hoops"><b><span class="novisit">Maryland</span></b></a>. | <a href="http://www.huskermax.com/mensbasketball/2016/games/15maryland_video.html" title="HuskerMax | Embedded video"><b><span class="novisit">Highlights</span></b></a>&#160; <span class="agate nowrap">Rafael Suanes-USA TODAY Sports</span>
+     </div>
+    </div>
+   </div>
+	
+   <div class="slide">
+	 <div class="triad2"><img src="/BXimages/1972orangebowl.jpg" />
+	  <div class="slidehed2">Leaving no doubt</div>
+	   <div class="slidetext2">The 1971 Huskers <a href="http://www.huskermax.com/games/1971/13alabama.html" title="HuskerMax | Nebraska-Alabama game page"><b><span class="novisit">dismantled No. 2 Alabama</span></b></a> on New Year&#146;s night 45 years ago to claim a second consecutive national championship. It&#146;s part of <a href="http://www.huskermax.com/pastnews/week/2017_01_01.html" title="HuskerMax | This Week in Husker history"><b><span class="novisit">this week in Husker history</span></b></a>. <span class="agate nowrap">Malcolm Emmons, USA TODAY Sports</span>
+     </div>
+    </div>
+   </div>
+
+  <div class="slide">
+	 <div class="triad2"><img src="/BXimages/bowl2016.jpg" />
+	  <div class="slidehed2">Huskers fall to Vols</div>
+	   <div class="slidetext2">Wide receiver Brandon Reilly&#146;s big day wasn&#146;t enough as Tennessee&#146;s Josh Dobbs led the Volunteers to a <a href="http://www.huskermax.com/games/2016/13tennessee16.html" title="HuskerMax game page"><b><span class="novisit">38-24 win</span></b></a> in the Music City Bowl. <span class="agate nowrap">Jim Brown-USA TODAY Sports</span>
+     </div>
+    </div>
+   </div>
+	
+  <div class="slide">
+	 <div class="triad2"><img src="/BXimages/carriker.jpg" />
+	  <div class="slidehed2">Carriker Chronicles</div>
+	   <div class="slidetext2"> Nebraska Football Hall of Famer Adam Carriker is sharing his insights and anecdotes on HuskerMax three mornings per week. Watch the latest episode of Carriker&#146;s Chronicles <a href="/columns/adam/" title="HuskerMax | Carriker Chronicles"><span class="novisit"><b>here</b></span></a>.
+     </div>
+    </div>
+   </div>
+	
+<!--   <div class="slide">
+	 <div class="triad2"><img src="/BXimages/indianaHoops2016.jpg" />
+	  <div class="slidehed2">Stunner at Indiana</div>
+	   <div class="slidetext2">Just 10 days after losing at home to Gardner-Webb, Nebraska shocks No. 16 Indiana on the road, <a href="/mensbasketball/2016/games/14indiana.html" title="HuskerMax game page"><b><span class="novisit">87-83</span></b></a>, snapping the Hoosiers&#146; 26-game home win streak. <span class="agate nowrap">Brian Spurlock-USA TODAY Sports</span>
+     </div>
+    </div>
+   </div>
+ -->	
+  <div class="slide">
+	 <div class="triad2"><img src="/BXimages/hailvarsity1936.jpg" />
+	  <div class="slidehed2">Birth of &#147;Hail Varsity&#148;</div>
+	   <div class="slidetext2"> Eighty years ago, a new Nebraska fight song made its public debut. It&#146;s safe to say the work by Wilbur Chenoweth and Warren Joyce Ayres <a href="/games/1936/HailVarsity"><span class="novisit"><b>was a keeper</b></span></a>.
+     </div>
+    </div>
+   </div>
+	
+  <div class="slide">
+	 <div class="triad2"><img src="/BXimages/squareoffs.png" />
+	  <div class="slidehed2">Voice your opinion</div>
+	   <div class="slidetext2">Chime in on the latest Husker topics on our <a href="poll/"><span class="novisit"><b>polls page</b></span></a>. A new question is released every Monday and Thursday.
+     </div>
+    </div>
+   </div>
+	
+   <div class="slide">
+	 <div class="triad2"><img src="/BXimages/insticator.jpg" />
+	  <div class="slidehed2">How&#146;s your sports IQ?</div>
+	   <div class="slidetext2"> Think you&#146;re a college football expert? Test your knowledge and compete against others via this <a href="/insticator/" title="HuskerMax | Insticator"><span class="slate"><b>interactive feature</b></span></a>.
+     </div>
+    </div>
+   </div>
+	
+  <div class="slide">
+	 <div class="triad2"><img src="/BXimages/hoffman2013.jpg" />
+	  <div class="slidehed2">Team Jack</div>
+	   <div class="slidetext2">A <a href="/games/2013/vid/00/08hoffman.html" title="HuskerMax | Video of Jack Hoffman's run"><b><span class="slate">magical moment</span></b></a> in the 2013 spring game resonated across the nation and around the world in a way nobody could have predicted. Get all the Team Jack coverage and multi&#173;media links <a href="/teamjack" title="HuskerMax | Team Jack coverage and links"><span class="slate"><b>here</b></span></a>.
+     </div>
+    </div>
+   </div>
+
+ </div><!-- END bxslider -->
+</div><!-- END slider holder -->
+<!-- ============== END SPOTLIGHT ======================= -->
+
+			<!-- FRESH LINKS -->
+			<div style="max-width:458px; min-width:458px; width:458px; padding:0; margin:0; background-color:#ddd" class="rounderSM">
+
+			 <div class="text rounderSM" id="latest-links" style="padding:10px; width:438px; margin:0"><a href="https://feeds.feedburner.com/HuskermaxLatestLinks" target="_b lank" title="RSS feed"><!-- <img src="images/rss.png" width="35" height="14" border="0" valign=top align=right> --><i class="fa fa-rss slate" style="font-size:14px;  float:right;"></i></a><span class="oswald gray3" style="font-family:Oswald, sans-serif; font-size:27px; font-weight:bold; color:#333;">&nbsp;FRESH&nbsp;&nbsp;LINKS </span> 
+      &nbsp;Jan.&#160;4,&#160;2017<br /> 
+			&nbsp; 
+
+			<!-- ======================== RSS  Feed Start =========================== -->
+
+<div class=indent2><b>&#149;</b> <a name=04WED></a> ESPN.com's Brian Bennett has <a href="http://www.espn.com/blog/bigten/post/_/id/140631/three-questions-for-2017-nebraska-cornhuskers" title="ESPN.com | http://www.espn.com/blog/bigten/post/_/id/140631/three-questions-for-2017-nebraska-cornhuskers" target="_blank" rel="nofollow">three questions</a> about the 2017 Huskers, and they start with the quarterback position. </div>
+
+<div class=indent2><b>&#149;</b> <a name=03TUE></a> Dirk Chatelain says Mike Riley's future will hinge on whether he can narrow the Huskers' <a href="http://www.omaha.com/huskers/football/chatelain-fixing-huskers-talent-gap-will-be-key-to-mike/article_ac29b66d-e155-5f68-8b46-0c8afa1c4f48.html" title="OWH | Dirk Chatelain: Fixing Huskers' talent gap will be key to Mike Riley's future" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'omaha.com']);">talent gap</a>.* | Recruiting updates: <a href="http://nebraska.247sports.com/Gallery/Nebraska-wide-receiver-target-Jamire-Calvin-is-nearing-a-decisio-50266235" title="Huskers Illustrated | Calvin closing in on decision" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', '247sports.com']);">1</a>, <a href="http://www.omaha.com/huskers/football/recruiting/recruiting-which-schools-stand-in-nebraska-s-way-for-a/article_f5f27a16-d1e5-11e6-8509-d321f1c740c6.html" title="OWH | Recruiting: Which schools stand in Nebraska's way for a memorable Army Bowl?" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'omaha.com']);">2</a>*</div>
+
+<div class=indent2><b>&#149;</b> <a name=03TUE></a> Land of 10 looks at how the 2017 <a href="https://www.landof10.com/nebraska/early-look-nebraskas-2017-offensive-depth-chart" title="Land of 10 | An early look at Nebraska's 2017 offensive depth chart" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'landof10.com']);">offensive</a> and <a href="https://www.landof10.com/nebraska/football-news/football" title="Land of 10 | An early look at Nebraska's defensive 2017 depth chart" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'landof10.com']);">defensive</a> depth charts might shake out. </div>
+
+<div class=indent2><b>&#149;</b> <a name=03TUE></a> Minnesota <a href="http://collegefootball.ap.org/huskermax/article/minnesota-fires-coach-tracy-claeys" title="AP | Minnesota fires coach Tracy Claeys" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'ap.org']);">fires</a> coach <a href="http://www.twincities.com/2017/01/03/gophers-fire-football-coach-tracy-claeys/" title="St. Paul Pioneer Press | Gophers fire football coach Tracy Claeys" target="_blank" rel="nofollow">Tracy Claeys</a> in the <a href="http://www.startribune.com/tracy-claeys-fired-as-gophers-football-coach/409534065/" title="Minneapolis Star Tribune | Tracy Claeys fired; Mark Coyle wants to 'move quickly' on new Gophers football coach" target="_blank" rel="nofollow">fallout</a> over the suspensions of 10 players linked to an alleged sexual assault. | <a href="https://forum.huskermax.com/index.php?threads/minnesota-fires-coach-tracy-claeys.93357/" title="HuskerMax BBS | Minnesota fires coach Tracy Claeys" target="_blank">Discuss</a> </div>
+
+
+
+
+<p align=center><a href="http://10minutesofinsanity.com/" title="10 Minutes of Insanity - The Johnny Rodgers Story" target="_blank" rel="nofollow"><img alt="10 Minutes of Insanity - The Johnny Rodgers Story" src="/valet/r300/Dec22Rodgers180.gif" style="width:180px; height:150px; margin:2px 4px;" /></a><!-- &#160;<a href="http://johnnyswine.com/" title="JR Signature Collection Wine" target="_blank" rel="nofollow"><img alt="JR Signature Collection Wine" src="/valet/r300/JRwineCollectible180x150.jpg" style="width:180px; height:150px; margin:2px 4px;" /></a> --></p>
+
+
+
+
+<div class=indent2><b>&#149;</b> <a name=03TUE></a> <a href="/poll/" title="HuskerMax poll">Poll question</a>: Which unit was more disappointing in the bowl loss?</div>
+
+<div class=indent2><b>&#149;</b> <a name=03TUE></a> Former Husker assistant <a href="http://www.scout.com/college/texas/story/1742708-sources-herman-to-hire-beck-to-run-offense" title="Horns Digest | Sources: Tom Herman to Hire Tim Beck to Run the Offense at Texas" target="_blank" rel="nofollow">Tim Beck</a> is reportedly <a href="http://collegefootball.ap.org/article/ohio-state-hires-49ers-assistant-new-qb-coach" title="AP | Ohio State hires 49ers assistant as new QB coach" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'ap.org']);">leaving Ohio State</a> to become offensive coordinator at Texas. </div>
+
+<div class=indent2><b>&#149;</b> <a name=03TUE></a> Adam Carriker takes stock of the <a href="http://www.huskermax.com/columns/adam/carriker_2017_01_03.html" title="HuskerMax | Carriker Chronicles">coaching staff</a> after a 9-4 season. </div>
+
+<div class=indent2><b>&#149;</b> <a name=02MON></a> The <a href="http://journalstar.com/sports/huskers/football/for-husker-qbs-lee-o-brien-competition-for-is-already/article_d26754fd-5c33-59f1-82ea-cc245d79be4c.html" title="LJS | For Husker QBs Lee, O'Brien, competition for 2017 is already ongoing" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'journalstar.com']);">comptition</a> between quarterbacks Tanner Lee and Patrick O'Brien is already under way. </div>
+
+<div class=indent2><b>&#149;</b> <a name=02MON></a> Former Husker Zaire Anderson describes the frightening <a href="http://pro32.ap.org/huskermax/article/broncos-lb-zaire-anderson-was-temporarily-paralyzed" title="AP | Broncos LB Zaire Anderson was temporarily paralyzed" target="_blank" rel="nofollow">temporary paralysis</a> he suffered in Sunday's Raiders-Broncos game.  </div>
+
+<div class=indent2><b>&#149;</b> <a name=02MON></a> The Huskers remain squarely in the mix for the services of <a href="http://www.omaha.com/huskers/recruiting-nation-s-no-ol-has-huskers-high-on-his/article_778ad7a8-d0a1-11e6-8192-db6a76a118c4.html" title="OWH | Recruiting: Nation's No. 1 OL has Huskers high on his list" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'omaha.com']);">Foster Sarell</a>,* the nation's top-rated O-lineman. | <a href="http://www.scout.com/college/football/recruiting/story/1742316-army-bowl-5-wr-lewis-sets-announcement-date" title="Scout.com | Army Bowl: 5* WR Lewis Sets Announcement Date" target="_blank" rel="nofollow">WR Lewis delays decision</a> </div>
+
+<div class=indent2><b>&#149;</b> <a name=01SUN></a> Mike Riley faces <a href="http://www.omaha.com/huskers/football/mckewon-mike-riley-faces-difficult-choices-with-struggling-husker-offense/article_0486863c-0fff-528d-ad0a-b8dd5684ad19.html" title="OWH | Sam McKewon: Mike Riley faces difficult choices with struggling Husker offense" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'omaha.com']);">hard choices</a>* about the direction of the offense, Sam McKewon writes. </div>
+
+<div class=indent2><b>&#149;</b> <a name=01SUN></a> Former Husker <a href="http://journalstar.com/sports/huskers/sipple/steven-m-sipple-ex-husker-happy-to-help-parrella-in/article_856acda2-fa1e-5a73-8065-fc0228420366.html" title="LJS | Steven M. Sipple: Ex-Husker happy to help Parrella in recruitment of four-star DE" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Outbound Links', 'journalstar.com']);">Eric Johnson</a> is trying to help John Parrella reel in a four-star defensive end from Georgia. </div>
+
+<div class=indent2><b>&#149;</b> <a name=01SUN></a> Check out these images from Rex Burkhead's <a href="http://www.huskermax.com/games/2016/files/2017.01.01_burkhead.html" title="HuskerMax | Embedded media">119-yard rushing game</a><!--  Sunday -->.  </div>
+
+
+
+	
+			
+
+
+
+
+
+
+			<!-- ======================== RSS Feed End =========================== -->
+
+
+			<div align="center" class="agate" style="font-size:11px; margin:14px 0 0 0;">  <a href="/pastnews/">NEWS&#160;ARCHIVE</a> &#160;|&#160; <a href="/updates">E-MAIL&#160;UPDATES</a> &#160;|&#160; *&#160;MAY&#160;REQUIRE&#160;SUBSCRIPTION</div>
+
+</div></div><!-- **FRESH LINKS -->
+
+
+<!-- start feedwind code -->
+
+<div style="background-color:#444; color:#fff; padding:7px; width:446px; max-width:446px; margin-top:20px;" class="rost tombtop"><b>&#160;LATEST COLUMNS</b></div>
+<script type="text/javascript">document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');</script>
+<script type="text/javascript">(function() {var params = {
+rssmikle_url:"https://forum.huskermax.com/scraper/columns_more2.xml",
+rssmikle_frame_width: "462",
+rssmikle_frame_height: "256",
+scrollstep: "6",
+rssmikle_title_sentence: "LATEST COLUMNS",
+rssmikle_item_title_length: "80",
+rssmikle_item_description_length: "85",
+article_num: "11",
+rssmikle_item_bgcolor:"#fcfcfc",
+frame_height_by_article:"0",rssmikle_target:"_blank",rssmikle_font:"Arial,Helvetica,'Nimbus Sans L','Liberation Sans',FreeSans,sans-serif",rssmikle_font_size:"11",rssmikle_border:"off",responsive:"off",rssmikle_css_url:"",text_align:"left",text_align2:"left",corner:"off",scrollbar:"off",autoscroll:"on",scrolldirection:"up",mcspeed:"20",sort:"New",rssmikle_title:"off",rssmikle_title_link:"",rssmikle_title_bgcolor:"#333333",rssmikle_title_color:"#FFFFFF",rssmikle_title_bgimage:"",rssmikle_item_bgimage:"",rssmikle_item_title_color:"#CC0000",rssmikle_item_border_bottom:"on",rssmikle_item_description:"on",item_link:"off",rssmikle_item_description_color:"#666666",rssmikle_item_date:"off",rssmikle_timezone:"Etc/GMT",datetime_format:"%b %e, %Y %l:%M %p",item_description_style:"text",item_thumbnail:"full",item_thumbnail_selection:"auto",rssmikle_item_podcast:"off",keyword_inc:"",keyword_exc:""};feedwind_show_widget_iframe(params);})();
+</script>
+
+<div style=" text-align:center; margin-top:4px; margin-bottom:16px; width:460px; background-color:#444; height:9px; max-height:9px; overflow:hidden;" class="tombbottom">&#160;</div>
+<!-- end feedwind code -->
+
+
+<!-- NEULION PLAYER -->
+<!-- <div style="width:100%; text-align:center; margin20px auto"><iframe style="border: none; overflow: hidden;" src="http://huskers.com/mediaPortal/widget/affiliate.dbml?db_oem_id=100&amp;pid=119212&amp;w=400" width="400" height="435" mute="true" scrolling="no" frameborder="0"></iframe></div> -->
+
+
+
+
+    </div>
+
+			<!-- ================================ CENTER COLUMN ========================== -->
+
+		<div style="width:300px; max-width:300px; min-width:300px; margin:0 auto 60px auto; float:left;">
+		<div style="width:236px; max-width:236px; margin:0 auto;"> 
+
+
+      <!-- THIS BUTTON DEACTIVATED -->
+           
+					
+<!-- COUNTDOWN CLOCK; ADJUST TIME IN HEADER, 'COUNTDOWN CLOCK' SECTION -->
+<table cellpadding=0 cellspacing=0 class="rounderXS kotable">
+<tr>
+<td class="kocell">NEXT<br />KICKOFF</td>
+<td class="koblank">.</td>
+<td><div id="alwaysShow" class="clocker text"></td></tr>
+<!-- OPTIONAL SECTION: HIDE IF NO RECENT GAME -->
+<tr><td colspan=3 class="postgame">POSTGAME  <span class="pgpoint">&gt;&gt;</span>  <a hreeeef="/games/2016/13tennessee.html" href="http://www.huskermax.com/games/2016/13tennessee16.html"><span style="color:#aa3333;">TENNESSEE 38, NEBRASKA 24</span></a></td>
+</tr>
+<!-- END OPTIONAL SECTION -->
+</table>
+<!-- END COUNTDOWN CLOCK -->
+					
+
+<!-- DISABLED AFTER BOWL -->
+                              <div id="audio-header"> <span class="lfloat">Listen Live Now</span> 
+            <span class="rfloat"><img src="images/microphone.png" height="18" width="18"/></span> 
+            <div class="clear"></div>
+        </div>
+          <div id="audio-wrapper"> 
+            <a href="http://v6.player.abacast.net/2758" target="_blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Unsportsmanlike', 'abacast.net']);"><div id="btn-unsportsmanlike"></div></a>        </div>
+          <!--                <a href="http://www.klin.com/HuskerMaxPracticeReport.aspx" target="_blank" rel="nofollow"> 
+          <div id="btn-practice_report"></div>
+          </a> -->
+
+<!-- 
+<div id="audio-header"> <span class="lfloat">Listen to Podcasts</span> 
+ <span class="rfloat"><img src="images/microphone.png" height="18" width="18"/></span> 
+ <div class="clear"></div>
+</div>
+<div id="audio-wrapper"> <a href="http://www.klin.com/HuskerAudio.aspx" target="_blank"> 
+ <div id="btn-husker_audio"></div></a>
+ <a href="http://www.klin.com/FridayHuskerTailgate.aspx" target="_blank"> 
+ <div id="btn-huskermax_tailgate"></div></a>
+</div>
+-->
+
+<!-- HUSKERMAX SHOP -->
+<div style="text-align:center; margin:20px auto 0 auto;">
+<script>
+<!--
+var hmxshop = "";
+var mmaxx = 61;
+var mminn = 85;
+var center_rndm = Math.floor(Math.random()*(mmaxx-mminn+1)+mminn);;
+centerValet='<a href="valet/center/'+center_rndm+'.htm" title="'+hmxshop+'" target="_blank"><img alt="Nice item" src="valet/center/'+center_rndm+'.png" align="center" height="120" width="226" border="0" style="margin:0 auto 6px auto; border:none;" class="rounderSM" /></a>';
+//-->
+</script>
+<script> 
+<!--
+document.write(centerValet);
+//-->
+</script>
+<br /><a href="http://shophuskermax.com" title="Visit the HuskerMax fan shop, powered by Osborne Family Enterprises" target="_blank" rel="nofollow"><span class="agate slate">VISIT THE HUSKERMAX FAN SHOP</span></a>
+</div>
+<!-- END HUSKERMAX SHOP -->
+
+
+<!-- KOOZIES	 -->
+<a href="https://forum.huskermax.com/index.php?threads/new-item-i-like-mike-huskermax-koozies.75717/" target="_blank"> 
+<div id="btn-koozies" style="margin:30px auto 0 auto"></div></a>
+
+
+
+<!-- GREY BOX -->
+<div class="rounderXS roster" style="text-align:center; margin:30px auto 0 auto; width:220px; padding:8px; background-color:#ddd;">
+ <div style="padding:0; font-size:8px; background-image:url('frontphotos/fill.jpg') background-color:#444; background-repeat:no-repeat; width:220px; height:183px" class="rounderXS">
+
+<a href="http://www.standingsunwines.com/Big-Red-Max_c_73.html" target="_blank" rel="nofollow" title="Big Red Max Wines"><img alt="wine" src="frontphotos/wine3.jpg" width=220 height=183 class="rounderXS" /></a>
+<!-- <iframe width="220" height="190" src="//www.youtube-nocookie.com/embed/VjretggVU3c?rel=0" frameborder="0" allowfullscreen></iframe>	 -->	
+
+<!-- NEULION EMBED CODE  -->
+<!-- END NEULION -->
+
+</div> 
+&#160;
+<div id="center- backing" style="margin-top:1px;"> 
+ <!--  ****************************** OTHER SPORTS *********************************  -->
+
+	 <div style="padding: 0 0 10px 0;"><span class="oswald" style="font-size:14px;font-weight:normal; text-decoration:underline"> 
+   MEN&#146;S HOOPS</span><br>
+   Nebraska <a href="/mensbasketball/"><span class="slate">shocks the Terps</span></a></div>
+
+	 <div style="padding: 0 0 10px 0;"><span class="oswald" style="font-size:14px;font-weight:normal; text-decoration:underline"> 
+   WOMEN&#146;S HOOPS</span><br>
+   <a href="/womensbasketball/"><span class="slate">Iowa</span></a> fends off Husker rally</div>
+
+	<div style="padding: 0 0 10px 0;"><span  class="oswald" style="font-size:14px;font-weight:normal; text-decoration:underline"> 
+   VOLLEYBALL</span><br>
+   Rolfzens sign with <a href="/volleyball/"><span class="slate">German team</span></a></div>
+	 
+  <div style="padding: 0 0 10px 0;"><span class="oswald" style="font-size:14px;font-weight:normal; text-decoration:underline">
+   HUSKERMAX &#160;POLLS</span><br>
+   Sound off <a href="/poll/"><span class="slate">here</span></a></div>
+
+  <div style="padding: 0 0 10px 0;"><span class="oswald" style="font-size:14px;font-weight:normal; text-decoration:underline">
+   LATEST &#160;VIDEOS</span><br>
+   <a href="/vidplayer2.html"><span class="slate">Huskers.com</span></a> | <a href="/partners/sportingnews/"><span class="slate">Sporting News</span></a></div>
+
+</div>
+<div style="background-color:#444; color:#fff; padding:7px; width:206px; max-width:206px; margin-top:12px;" class="rost tombtop"><b>LATEST FROM THE BBS</b></div>
+
+<script type="text/javascript">(function() {var params = {
+rssmikle_url: "https://forum.huskermax.com/index.php?forums/football.4/index.rss",
+rssmikle_frame_width: "220",
+rssmikle_frame_height: "280",
+scrollstep: "5",
+rssmikle_title_sentence: "LATEST FROM THE BBS",
+rssmikle_item_title_length: "70",
+rssmikle_item_description_length: "42",
+article_num: "16",
+rssmikle_item_bgcolor:"#ffffff",
+frame_height_by_article:"0",rssmikle_target:"_blank",rssmikle_font:"Arial,Helvetica,'Nimbus Sans L','Liberation Sans',FreeSans,sans-serif",rssmikle_font_size:"11",rssmikle_border:"off",responsive:"off",rssmikle_css_url:"",text_align:"left",text_align2:"left",corner:"off",scrollbar:"off",autoscroll:"on",scrolldirection:"up",mcspeed:"20",sort:"New",rssmikle_title:"off",rssmikle_title_link:"",rssmikle_title_bgcolor:"#333333",rssmikle_title_color:"#FFFFFF",rssmikle_title_bgimage:"",rssmikle_item_bgimage:"",rssmikle_item_title_color:"#CC0000",rssmikle_item_border_bottom:"on",rssmikle_item_description:"on",item_link:"off",rssmikle_item_description_color:"#666666",rssmikle_item_date:"off",rssmikle_timezone:"Etc/GMT",datetime_format:"%b %e, %Y %l:%M %p",item_description_style:"text",item_thumbnail:"full",item_thumbnail_selection:"auto",rssmikle_item_podcast:"off",keyword_inc:"",keyword_exc:""};feedwind_show_widget_iframe(params);})();
+</script>
+
+<div style="font-size:10px; text-align:center; width:220px; padding-bottom:12px;">
+<span style="position:relative; top:4px;"><a href="http://feed.mikle.com/" target="_blank" rel="nofollow" style="color:#CC0000;"><span class="slate">RSS Feed Widget</span></a></span>
+<!--Please display the above link in your web page according to Terms of Service.-->
+</div>
+<!-- end feedwind code -->
+</div>
+
+<!-- 	<div align="center">
+					<a href="/events/tour/order.html"> 
+          <div id="btn-thrugatestour" style="margin:20px auto 0 auto;"></div>
+          </a> </div>	-->	
+ <hr width="210" style="margin:16px auto">
+
+<!-- SEARCH AND UNDERLINES  -->
+ <center>
+ <div align="center" style="margin:0 auto;">
+ <div align="center" class="rost" valign="middle" style="padding-right:6px; float:left; margin-left:8px;">
+ <form action="https://www.google.com/cse" id="cse-search-box" target="_blank">
+ <div class="agate" style="color:#444444">
+ <input type="hidden" name="cx" value="006147696962575589000:optatozlyxy" />
+ <input type="hidden" name="ie" value="UTF-8" />
+ <input type="text" name="q" size="12" />
+ <br /><input type="submit" name="sa" value="SEARCH HUSKERMAX" style="font-size: 8px; font-family: Verdana,Geneva,sans-serif; margin: 1px 0 4px 0;" /><br /><a href="/searches/"><span class="slate"><i class="fa fa-search"></i> More searches</span></a></div></form><script src="/js/goog_brand.js"></script></div>
+
+ <div align="center" valign="middle" style="padding-left:6px;border-left: 1px dotted #444444; float:right; margin-right:8px">
+ <form id="switchform" class="roster">Underline<br />links?<br /> <input type="radio" name="choice" value="yes-underlines" onClick="chooseStyle(this.value, 60)">Yes <input type="radio" name="choice" value="none" onClick="chooseStyle(this.value, 60)">No</form></div></div>
+ </center>
+<!--  END SEARCH AND UNDERLINES -->
+
+ </div>
+</div>
+
+
+
+<!-- ============================= RIGHT COLUMN ============================= -->
+<div style="width:300px; max-width:300px; text-align:center; paddXXXXXXXXing-bottom:60px; margin:0 auto; float:left;">
+<div style="min-width:300px; min-height:250px">
+
+<!-- Top 300 -->
+<!-- HM Front Page 301 Top [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc177468 = window.plc177468 || 0;
+document.write('<'+'div id="placement_177468_'+plc177468+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(166223, 177468, [300,250], 'placement_177468_'+opt.place, opt); }, opt: { place: plc177468++, keywords: abkw, domain: 'servedbyadbutler.com', click:'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+</div>
+
+<!-- SCHEDULE TAB BOX	 -->
+			<div style="margin: 30px 0 0 0px">
+				<div align="center">
+					<ul id="fronttabs" class="shadetabs">
+			    	<li><a href="#" rel="frontA" class="selected">SCHEDULE</a></li>
+			      <li><a href="#" rel="frontB">B1G&#160;STANDINGS</a></li>
+			      <!-- <li><a href="#" rel="frontC">GAMEDAY</a></li> -->
+					</ul>
+					<div style="-moz-border-radius: 9px; -webkit-border-radius: 4px; border-radius: 4px; border:1px solid gray; width:292px; height:336px; margyyyyn-bottom: 0.5em; padding: 8px 3px 8px 3px; background-color:#eeeeee">
+
+			<div id="frontA" class="tabcontent">
+
+			<table align="center" class="ag4" cellpadding=0 cellspacing=0 border=0 height=270 width=246 bgcolor="#eeeeee">
+			<tr><td align="center" class="oswald" style="padding: 6px 0 4px 0; font-size:14px; font-weight:normal;" colspan="4">2016 &#160;GAMES</td></tr>
+			<tr><td colspan=4>
+			<script language="JavaScript" TYPE="text/javascript">
+<!--
+var tzone
+if (tzone == undefined) {tzone = 1}
+var tzoneW
+if (tzoneW == undefined) {tzoneW = "Central"}
+
+
+
+//  INSTRUCTIONS: Times and scores are handled in this section
+//  [0] eastern, [1] central, [2] mountain, [3] pacific
+//  Time gets replaced by score after the game (fill all four slots for each game)
+//  Anything that's not A.M. or P.M. ends with &nbsp;
+//
+//   Examples:
+//
+//  game12[0]="1:00 P.M.";
+//  game12[1]="NOON&nbsp;";
+//  game12[2]="11:00 A.M.";
+//  game12[3]="10:00 A.M.";
+//
+//  game12[0]="W 20-7&nbsp;";
+//  game12[1]="W 20-7&nbsp;";
+//  game12[2]="W 20-7&nbsp;";
+//  game12[3]="W 20-7&nbsp;";
+//
+//  game12[0]="L 21-20&nbsp;";
+//  game12[1]="L 21-20&nbsp;";
+//  game12[2]="L 21-20&nbsp;";
+//  game12[3]="L 21-20&nbsp;";
+
+
+
+//RED-WHITE
+var game0 =[];
+game0[0]="2:00 P.M.";
+game0[1]="1:00 P.M.";
+game0[2]="NOON&nbsp;";
+game0[3]="11:00 A.M.";
+
+//FRESNO
+var game1 =[];
+game1[0]="W 43-10";
+game1[1]="W 43-10";
+game1[2]="W 43-10";
+game1[3]="W 43-10";
+
+//WYOMING
+var game2 =[];
+game2[0]="W 52-17";
+game2[1]="W 52-17";
+game2[2]="W 52-17";
+game2[3]="W 52-17";
+
+//OREGON
+var game3 =[];
+game3[0]="W 35-32";
+game3[1]="W 35-32";
+game3[2]="W 35-32";
+game3[3]="W 35-32";
+
+//NORTHWESTERN
+var game4 =[];
+game4[0]="W 24-13";
+game4[1]="W 24-13";
+game4[2]="W 24-13";
+game4[3]="W 24-13";
+
+//ILLINOIS
+var game5 =[];
+game5[0]="W 31-16";
+game5[1]="W 31-16";
+game5[2]="W 31-16";
+game5[3]="W 31-16";
+
+//INDIANA
+var game6 =[];
+game6[0]="W 27-22";
+game6[1]="W 27-22";
+game6[2]="W 27-22";
+game6[3]="W 27-22";
+
+//PURDUE
+var game7 =[];
+game7[0]="W 27-14";
+game7[1]="W 27-14";
+game7[2]="W 27-14";
+game7[3]="W 27-14";
+
+//WISCONSIN
+var game8 =[];
+game8[0]="L 23-17";
+game8[1]="L 23-17";
+game8[2]="L 23-17";
+game8[3]="L 23-17";
+
+//OHIO STATE
+var game9 =[];
+game9[0]="L 62-3";
+game9[1]="L 62-3";
+game9[2]="L 62-3";
+game9[3]="L 62-3";
+
+//MINNESOTA
+var game10 =[];
+game10[0]="W 24-17";
+game10[1]="W 24-17";
+game10[2]="W 24-17";
+game10[3]="W 24-17";
+
+//MARYLAND
+var game11 =[];
+game11[0]="W 28-7";
+game11[1]="W 28-7";
+game11[2]="W 28-7";
+game11[3]="W 28-7";
+
+//IOWA
+var game12 =[];
+game12[0]="L 40-10";
+game12[1]="L 40-10";
+game12[2]="L 40-10";
+game12[3]="L 40-10";
+
+//BIG TEN
+var game13 =[];
+game13[0]="8:00 P.M.";
+game13[1]="7:00 P.M.";
+game13[2]="6:00 P.M.";
+game13[3]="5:00 P.M.";
+
+//TENNESSEE
+var game14 =[];
+game14[0]="L 38-24";
+game14[1]="L 38-24";
+game14[2]="L 38-24";
+game14[3]="L 38-24";
+
+/* 
+var hrz=gameTime[].getHours()
+hrz = (hrz+tzone)
+if (hrz > 12){
+hourz = (hrz-12)
+} else {
+hourz = hrz
+}
+
+var hourz;
+if (hrz > 12){
+hourz = (hrz-12)
+} else {
+hourz = hrz
+}
+var mnz=gameTime[].getMinutes()
+if (mnz < 10){
+mnz = "0" + mnz1
+}
+function GT[]() {
+document.write(hourz + ":" + mnz + " ");
+if(hrz > 11){
+document.write("P.M.")
+} else {
+document.write("A.M.")
+}
+}
+*/
+
+
+//-->
+</script>
+
+<!-- 
+===================================================================
+ When TV arrangements are made, change "trans.gif" to "tv.gif"
+ and replace "TV info" with network ("ABC," "ESPN," etc.).
+ Scores go in the section above, not here
+===================================================================
+-->
+
+<tr valign="bottom"><td nowrap>04/16</td>
+<td style="padding-left:6px" nowrap colspan=2><a href="http://www.huskermax.com/games/2016/00spring16.html" target="_blank"><span class="slate">WHITES 46, REDS 41</span></a></td>
+<!-- <td align="right" style="padding:0 0 0 0" nowrap>&nbsp;</td> -->
+<td valign="middle"><img title="BTN2GO live and BTN replay" src="http://www.huskermax.com/images/trans.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>09/03</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com/games/2016/01fresnostate16.html" target="_blank"><span class="slate">FRESNO STATE</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game1[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="BTN" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>09/10</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com/games/2016/02wyoming16.html" target="_blank"><span class="slate">WYOMING</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game2[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ESPN2" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>09/17</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com/games/2016/03oregon16.html" target="_blank"><span class="slate">OREGON</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game3[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ABC national" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" border="0" /></a></td></tr>
+
+<tr valign="bottom"><td nowrap>09/24</td>
+<td style="padding-left:6px" nowrap>@ <a href="http://www.huskermax.com/games/2016/04northwestern16.html" target="_blank"><span class="slate">NORTHWESTERN</a></span></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game4[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="BTN" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>10/01</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com/games/2016/05illinois16.html" target="_blank"><span class="slate">ILLINOIS</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game5[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ESPN2" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>10/15</td>
+<td style="padding-left:6px" nowrap>@ <a href="http://www.huskermax.com/games/2016/06indiana16.html" target="_blank"><span class="slate">INDIANA</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game6[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ABC/ESPN2" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>10/22</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com/games/2016/07purdue16.html" target="_blank"><span class="slate">PURDUE</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game7[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ABC/ESPN2" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>10/29</td>
+<td style="padding-left:6px" nowrap>@ <a href="http://www.huskermax.com/games/2016/08wisconsin16.html" target="_blank"><span class="slate">WISCONSIN</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game8[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ESPN" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>11/05</td>
+<td style="padding-left:6px" nowrap>@ <a href="http://www.huskermax.com/games/2016/09ohiostate16.html" target="_blank"><span class="slate">OHIO STATE</span></a>&nbsp;</td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game9[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ABC (national)" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>11/12</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com/games/2016/10minnesota16.html" target="_blank"><span class="slate">MINNESOTA</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game10[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="BTN" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>11/19</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com/games/2016/11maryland16.html" target="_blank"><span class="slate">MARYLAND</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game11[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ESPNews" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<tr valign="bottom"><td nowrap>11/25</td>
+<td style="padding-left:6px" nowrap>@ <a href="http://www.huskermax.com/games/2016/12iowa16.html" target="_blank"><span class="slate">IOWA</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game12[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ABC national" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<!-- <tr valign="bottom"><td nowrap>12/03</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com//games/BigTenTitle.html" target="_blank"><span class="slate">BIG TEN CHAMP.</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game13[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="Fox" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr> -->
+
+<tr valign="bottom"><td nowrap>12/30</td>
+<td style="padding-left:6px" nowrap><a href="http://www.huskermax.com/games/2016/13tennessee16.html" target="_blank"><span class="slate">TENNESSEE</span></a></td>
+<td align="right" style="padding:0 0 0 0" nowrap><script language="JavaScript" TYPE="text/javascript">document.write(game14[tzone])</script>&nbsp;</td>
+<td valign="middle"><img title="ESPN" src="http://www.huskermax.com/images/tv.gif" height="9" width="7" border="0" /></td></tr>
+
+<!-- EXTRA SPACE TO MAKE UP FOR NO CONF TITLE GAME -->
+<tr valign="bottom"><td nowrap>&#160;</td>
+<td style="padding-left:6px" nowrap>&#160;</td>
+<td colspan=2 align="right" style="padding:0 0 0 0" nowrap>&#160;</td>
+</tr>      </td></tr>
+
+			<tr valign="bottom"><td colspan="5" align="center"><img width="9" height="10" alt="" src="images/trans.gif" /></td></tr> 
+			<tr valign="bottom"><td colspan="5" align="center"><img width="1" height="13" align="left" alt="" src="images/trans.gif" /> <a href="allgames/2015.html">2015</a> | <a href="allgames/2017.html">2017</a> | <a href="allthegames.html">ALL</a> | <a href="/games/2016/files/printable_sked_2016.html">PRINTABLE</a></td></tr> 
+
+			<tr valign="bottom"><td colspan="4" align="center" style="padding: 0 0 0 0">All times Central | <a href="addschedule.html" title="Add the HuskerMax schedule to your website or your desktop">Get widget</a></td></tr>
+
+ 			<tr valign="bottom"><td style="font-size:10px">&#160;</td><td align="left">&#160;</td><td nowrap align="right">&#160;</td><td valign="middle"><img title="" src="images/trans.gif" height="9" width="7" /></td></tr>
+
+			</table>
+		 </div>
+
+
+
+
+
+	<div id="frontB" class="tabcontent">
+
+	<table align="center" height=276 valign="top" cellpadding=0 cellspacing=0 bgcolor="#eeeeee" class="agate" style="font-size:11px">
+
+<tr><td colspan=7 align="center"><span class="oswald" style="font-size:14px; font-weight:normal;" ><b>2016</b></span>&#160;<br />
+<b>WEST DIVISION</b></td></tr>
+<tr><td>&#160;</td><td colspan=2 align="center">Conf.</td><td colspan=2 align="center">Division</td><td colspan=2 align="center">Overall</td></tr>
+<tr><td>&#160;</td><td align="center" nowrap>&#160;&#160;&#160;W-L&#160;&#160;&#160;</td><td align="center">%</td><td align="center" nowrap>&#160;&#160;&#160;W-L&#160;&#160;&#160;</td><td align="center">%</td><td align="center" nowrap>&#160;&#160;&#160;W-L&#160;&#160;&#160;</td><td align="center">%</td></tr>
+
+<tr><td align="left">Wisconsin</td><td align="center">7-2</td><td align="center">0.778</td><td align="center">6-0</td><td align="center">1.000</td><td align="center">11-3</td><td align="center">0.786</td></tr>
+<tr><td align="left">Iowa</td><td align="center">6-3</td><td align="center">0.667</td><td align="center">4-2</td><td align="center">0.667</td><td align="center">8-5</td><td align="center">0.615</td></tr>
+<tr><td align="left">Nebraska</td><td align="center">6-3</td><td align="center">0.667</td><td align="center">4-2</td><td align="center">0.667</td><td align="center">9-4</td><td align="center">0.692</td></tr>
+<tr><td align="left">Minnesota</td><td align="center">5-4</td><td align="center">0.556</td><td align="center">3-3</td><td align="center">0.500</td><td align="center">9-4</td><td align="center">0.692</td></tr>
+<tr><td align="left">Northwestern&nbsp;</td><td align="center">5-4</td><td align="center">0.556</td><td align="center">3-3</td><td align="center">0.500</td><td align="center">7-6</td><td align="center">0.538</td></tr>
+<tr><td align="left">Illinois</td><td align="center">2-7</td><td align="center">0.222</td><td align="center">0-6</td><td align="center">0.000</td><td align="center">3-9</td><td align="center">0.250</td></tr>
+<tr><td align="left">Purdue</td><td align="center">1-8</td><td align="center">0.111</td><td align="center">1-5</td><td align="center">0.167</td><td align="center">3-9</td><td align="center">0.250</td></tr>
+
+<tr><td colspan=7 align="center" style="padding:6px 0 0 0"><b>EAST DIVISION</b></td></tr>
+<tr><td>&#160;</td><td colspan=2 align="center">Conf.</td><td colspan=2 align="center">Division</td><td colspan=2 align="center">Overall</td></tr>
+<tr><td>&#160;</td><td align="center" nowrap>&#160;&#160;&#160;W-L&#160;&#160;&#160;</td><td align="center">%</td><td align="center" nowrap>&#160;&#160;&#160;W-L&#160;&#160;&#160;</td><td align="center">%</td><td align="center" nowrap>&#160;&#160;&#160;W-L&#160;&#160;&#160;</td><td align="center">%</td></tr>
+
+<tr><td align="left">Penn State*</td><td align="center">8-1</td><td align="center">0.889</td><td align="center">5-1</td><td align="center">0.833</td><td align="center">11-3</td><td align="center">0.786</td></tr>
+<tr><td align="left">Ohio State</td><td align="center">8-1</td><td align="center">0.889</td><td align="center">5-1</td><td align="center">0.833</td><td align="center">11-2</td><td align="center">0.846</td></tr>
+<tr><td align="left">Michigan</td><td align="center">7-2</td><td align="center">0.778</td><td align="center">5-1</td><td align="center">0.833</td><td align="center">10-2</td><td align="center">0.833</td></tr>
+<tr><td align="left">Indiana</td><td align="center">4-5</td><td align="center">0.444</td><td align="center">3-3</td><td align="center">0.500</td><td align="center">6-7</td><td align="center">0.462</td></tr>
+<tr><td align="left">Maryland</td><td align="center">3-6</td><td align="center">0.333</td><td align="center">2-4</td><td align="center">0.333</td><td align="center">6-7</td><td align="center">0.462</td></tr>
+<tr><td align="left">Mich. State</td><td align="center">1-8</td><td align="center">0.111</td><td align="center">1-5</td><td align="center">0.167</td><td align="center">3-9</td><td align="center">0.250</td></tr>
+<tr><td align="left">Rutgers</td><td align="center">0-9</td><td align="center">0.000</td><td align="center">0-6</td><td align="center">0.000</td><td align="center">2-10</td><td align="center">0.167</td></tr>
+
+<tr><td colspan=7 align="center" style="padding:3px 0 0 0"> Through games of Jan. 2 &#160;|&#160;  *Conference champion</td></tr>
+</table>
+
+</div>
+
+    <!--  ===============GAMEDAY TAB GOES HERE, SAVED IN FRONT PHOTOS FOLDER ================== -->
+
+		 </div>
+
+			<script>
+			<!--
+			var fronttabs=new ddtabcontent("fronttabs")
+			fronttabs.setpersist(false)
+			fronttabs.setselectedClassTarget("link") //"link" or "linkparent"
+			fronttabs.init()
+			//-->
+			</script>
+			</div>
+			</div>
+
+
+
+<!-- TICKETS AD -->
+
+<a href="http://tickets.huskermax.com/ResultsEvent.aspx?event=Nebraska+Cornhuskers&pid=716" title="HuskerMax Tickets: All Husker games, home and away" target="_blank"><img alt="HuskerMax Tickets: All Husker games, home and away" src="valet/120/tickets272.png" align="center" border="0" style="width:272px; height:52px; margin:30px auto 0 auto"></a>
+
+
+
+<!-- VIDEO PLAYER -->
+<!-- END VIDEO PLAYER -->
+
+
+
+<div style="min-width:300px; min-height:600px; margin:30px auto 0 auto;">
+<!-- HM Front Page 300x600 [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc213586 = window.plc213586 || 0;
+document.write('<'+'div id="placement_213586_'+plc213586+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(166223, 213586, [300,600], 'placement_213586_'+opt.place, opt); }, opt: { place: plc213586++, keywords: abkw, domain: 'servedbyadbutler.com', click:'CLICK_MACRO_PLACEHOLDER' }});
+</script></div>
+
+		</div><!-- #right column -->
+		
+		<!-- ======================== CALENDAR ================================= -->
+<div style="height:250px; min-height:250px; width:1060px; margin:0 0 0 0; float:right;">
+<iframe style="border: none; margin:0px; width:100%; height:250px;" src="https://www.stanza.co/@huskermax?embed=true&banner=true&site=huskermax"></iframe>
+</div>
+		
+	 </div><!-- #content-wrapper -->
+<!--  		<div id="content-footerXXXXX"></div> -->
+
+<div class="clear"></div>
+<div id="copyright" style="background:#ccc !important; margin-left:8px; margin-right:8px; padding-top:8px;"> <!-- DELETE STYLE WHEN BACKGROUND AD REMOVED -->		
+
+<!-- BOTTOM 728 -->
+<div id="placeholderHMX" style="width:728px; height:90px; margin:0 auto; padding:0">
+<!-- HM Front Page 728 BTF [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc177471 = window.plc177471 || 0;
+document.write('<'+'div id="placement_177471_'+plc177471+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(166223, 177471, [728,90], 'placement_177471_'+opt.place, opt); }, opt: { place: plc177471++, keywords: abkw, domain: 'servedbyadbutler.com', click:'CLICK_MACRO_PLACEHOLDER ' }});
+</script>
+
+<!-- END BOTTOM 728 -->
+
+<div class="clear"></div>
+<hr style="margin:10px auto; width:80%">
+ Brought to you by <a href="mailto:joeroyhud@gmail.com?subject=HuskerMax">J.Hudson</a>
+ and David Max (a.k.a. <a href="mailto:bigredmax@yahoo.com">Big Red Max</a>) &#160;&#160;&#160;&#160;<b>&#149;</b>&#160;&#160;&#160;&#160; &copy;1995-2017 by HuskerMax&#8482;, David Max and Joe Hudson
+
+<!-- REMOVE BOTTOM MARGIN HERE --><div style="margin-bottom:98px; margin-top:4px; position:relative; left:20px;"><a href="/privacy.html">Privacy policy</a> &#160;&#160;&#160;&#160;<b>&#149;</b>&#160;&#160;&#160;&#160; In association with <a href="http://www.nrgmedia.com"><!-- NRG Media LLC --><img alt="NRG Media LLC" title="NRG Media LLC" src="/images/NRG2.png" style="width:81px; height:40px; vertical-align:middle;" /></a> &#160;&#160;&#160;&#160;<b>&#149;</b>&#160;&#160;&#160;&#160; Partner of <img alt="USA Today Sports Digital Properties" title="USA Today Sports Digital Properties" src="/images/USA_TODAY_SportsDP_color_extreme_horiz-193x41.png" style="width:193px; height:41px; vertical-align:middle; position:relative; left:-20px;" /><!-- Partner of USA TODAY Sports Digital Properties --></div>  
+</div>		
+
+</div><!-- #centered-wrapper -->
+
+<!-- TEMP FOR BACKGROUND AD -->
+<scryypt type="text/javascript">
+<!--
+$('body').click(function(e){
+var url = $(this).prop('href');
+    if (e.target === this) {
+        window.open('https://www.fanduel.com/?p=HUSKERS&btag=a_8420b_1119c_', '_blank');
+    }
+});
+// -->
+</scryypt>
+
+<!-- TEMP FOR TABLET AD DISABLED  BUT  remember to remove "margin-bottom:98px;" from div above when this goes away-->
+<style type="text/css">
+<!-- 
+.anchorad {
+	position: fixed; 
+  bottom: 0;
+  left: 0;
+	right: 0;
+  height: 90px;
+}
+-->
+</style>
+
+
+<!-- <div class="anchorad" style="text-align:center"> -->
+<!-- HM Tablet 728 Anchor [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'http://ab166223.adbutler-exciton.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc189204 = window.plc189204 || 0;
+document.write('<'+'div id="placement_189204_'+plc189204+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(166223, 189204, [728,90], 'placement_189204_'+opt.place, opt); }, opt: { place: plc189204++, keywords: abkw, domain: 'ab166223.adbutler-exciton.com' }});
+</script>
+<!-- </div> -->
+
+</div><!-- END TO MAKE ROOM FOR PILLAR AD -->
+
+
+<!-- ACTUAL PILLAR AD -->
+<!-- Begin 33Across RevCTRL InView -->
+<script>
+var Tynt=Tynt||[];Tynt.push('dKkqXQ_cqr5yhTrkHcnlxd');
+Tynt.cmd=Tynt.cmd||[];Tynt.cmd.push(function(){
+Tynt.ads.display('','','inview');});
+(function(){var h,s=document.createElement('script');
+s.src=(window.location.protocol==='https:'?
+'https':'http')+'://cdn.tynt.com/rciv.js';
+h=document.getElementsByTagName('script')[0];
+h.parentNode.insertBefore(s,h);})();
+</script>
+<!-- End 33Across RevCTRL InView -->
+
+
+<!-- RIGHT BRAIN ANALYTICS <script id="domain" data-name="3464373" type="text/javascript" src="http://analytics.badpopsicle.com/js/analytics_js/client.js"></script> -->
+
+</body>
+</html>
+
